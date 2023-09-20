@@ -1,2 +1,2 @@
 # todo
-It is a Java bsed ToDo application. 
+It is a Java based ToDo application. 
